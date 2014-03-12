@@ -1,0 +1,3 @@
+
+follower
+follower.jar,core.jar,jogl-all.jar,gluegen-rt.jar,jogl-all-natives-windows-i586.jar,gluegen-rt-natives-windows-i586.jar,fisica.jar,JBox2D-2.0.1-b250-Library.jar,gstreamer-java.jar,jna.jar,video.jar
